@@ -13,19 +13,19 @@ cin>>c;
 
 switch(c)
 
-case "+":
+case +:
               d=a+b;
               cout<<"The sum of two no. are"<<d;
               break;
-case "-":
+case -:
               d=a-b;
               cout<<"The subtract of two no. are"<<d;
               break;
-case "*":
+case *:
               d=a*b;
               cout<<"The product of two no. are"<<d;
               break;
-case "/":
+case /:
               d=a/b;
               cout<<"The divident of two no. are"<<d;
               break;
